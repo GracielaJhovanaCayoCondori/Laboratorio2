@@ -10,4 +10,5 @@ class UpdateScore extends LogicGame {
         
     
 };
+}
 export default UpdateScore;
